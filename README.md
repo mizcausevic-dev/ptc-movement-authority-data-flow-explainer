@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/ptc-movement-authority-data-flow-explainer/
 
+Repository: https://github.com/mizcausevic-dev/ptc-movement-authority-data-flow-explainer
+
 ## What this is
 
 An interactive anatomy plate for PTC Movement-Authority Data Flow. Play, scrub, or jump the five stages. The same frame always draws the same picture.
